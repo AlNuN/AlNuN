@@ -4,7 +4,7 @@
 
 My name is Matheus Alves Nunes from Brazil (🇧🇷). I'm a Jr. web developer with focus in front-end technologies.
 
-My main programming language is JavaScript and I like to work with React, Next and Node.
+My main programming language is JavaScript and I like to work with React and Vue.
 
 I love music, and playing my favourite songs in the guitar :guitar: is a refuge for me.
 
