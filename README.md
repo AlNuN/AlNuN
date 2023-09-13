@@ -2,7 +2,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/matallves)](https://twitter.com/matallves)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--lightgray?style=social&logo=Linkedin&logoColor=blue&url=https://www.linkedin.com/in/matheus-alves-nunes-a6a95a191/)](https://www.linkedin.com/in/matheus-alves-nunes-a6a95a191/)
 
-My name is Matheus Alves Nunes from Brazil (🇧🇷). I'm a Jr. web developer with focus in front-end technologies.
+My name is Matheus Alves Nunes from Brazil (🇧🇷). I'm a full-stack web developer.
 
 My main programming language is JavaScript and I like to work with React and Vue.
 
